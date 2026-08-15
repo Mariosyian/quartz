@@ -3,7 +3,7 @@ name: Deploy v5 Preview
 on:
   push:
     branches:
-      - v5
+      - main
   workflow_dispatch:
 
 permissions:
@@ -60,5 +60,5 @@ jobs:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
           projectName: quartz
           deploymentName: v5 Branch Preview
-          branch: v5
+          branch: main
           directory: public

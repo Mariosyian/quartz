@@ -42,7 +42,7 @@ The Y-row characters have what is called the "small" version which can be added 
 | --- | -------- | -------- | -------- |
 | ki  | キャ     | キュ      | キョ     |
 | shi | シャ     | シュ      | ショ     |
-| chi | チャ     | ヂュ      | ヂョ     |
+| chi | チャ     | チュ      | チョ     |
 | ni  | ニャ     | ニュ      | ニョ     |
 | hi  | ヒャ     | ヒュ      | ヒョ     |
 | mi  | ミャ     | ミュ      | ミョ     |

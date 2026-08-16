@@ -54,7 +54,7 @@ The Y-row characters have what is called the "small" version which can be added 
 | dzi | ぢゃ       | ぢゅ       | ぢょ       |
 | bi  | びゃ       | びゅ       | びょ       |
 
-The tsu (つ) character also has a "small" version called *sokuon* which is used to elongate the consonant part of the consonant-vowel that follows it and can be applied to most Hiragana characters with the exception of:
+The tsu (つ) character also has a "small" version called *sokuon* which is used to elongate the consonant part of the consonant-vowel that _follows it_ and can be applied to most Hiragana characters with the exception of:
 - the vowels row (simply add a second vowel )
 - the N-row, as the singular n (ん) is added instead
 - voiced consonants

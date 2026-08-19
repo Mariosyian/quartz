@@ -232,7 +232,6 @@ plugins:
     options:
       links:
         GitHub: https://github.com/mariosyian/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
     layout:
       position: footer
       priority: 50

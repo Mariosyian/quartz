@@ -36,7 +36,7 @@ export default {
       title: "탐색기",
     },
     footer: {
-      createdWith: "Created with",
+      createdWith: "",
     },
     graph: {
       title: "그래프 뷰",

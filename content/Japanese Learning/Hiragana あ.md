@@ -1,3 +1,7 @@
+---
+title: Hiragana / ひらがな
+---
+
 Hiragana is the foundational alphabet of the Japanese language and is a phonetic lettering system.
 
 It makes up the basic alphabet / sounds and consists of 48 characters comprised of:

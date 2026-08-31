@@ -1,3 +1,7 @@
+---
+title: Katakana / カタカナ
+---
+
 Katakana is a one to one match of Hiragana, but is used for loan words and is a phonetic lettering system.
 
 |     | a    | i        | u         | e    | o    | -   |

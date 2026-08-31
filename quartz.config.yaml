@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: にほんご
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -227,14 +227,6 @@ plugins:
     layout:
       position: afterBody
       priority: 10
-  - source: "@quartz-community/footer"
-    enabled: true
-    options:
-      links:
-        GitHub: https://github.com/mariosyian/quartz
-    layout:
-      position: footer
-      priority: 50
   - source: "@quartz-community/recent-notes"
     enabled: false
   - source: "@quartz-community/spacer"

@@ -6,9 +6,9 @@ These are a collection of presentations provided by my teacher [Himari (ひま�
 
 ## Lesson 01 - Beginner lesson
 
-Introduction to the first few rows of the [Hiragana](../Hiragana%20あ.md) alphabet, as well as frequently used phrases that you can use and will encounter throughout everyday life in Japan. These slides include commonly used greetings, [adjectives](#), [verbs](#), and some [expressions of time](#). Since these slides focus on getting some basic understanding of sentence structure out of the way, the verbs included here are in the more [formal (keigo) language](https://en.wikipedia.org/wiki/Honorific_speech_in_Japanese). Majority of the words are also written in [romaji](#) since this beginner lesson assumes no knowledge of the Hiragana alphabet
-
 [Presentation Slides (PDF)](./Lesson%2001%20-%20Beginner%20lesson.pdf)
+
+Introduction to the first few rows of the [Hiragana](../Hiragana%20あ.md) alphabet, as well as frequently used phrases that you can use and will encounter throughout everyday life in Japan. These slides include commonly used greetings, [adjectives](#), [verbs](#), and some [expressions of time](#). Since these slides focus on getting some basic understanding of sentence structure out of the way, the verbs included here are in the more [formal (keigo) language](https://en.wikipedia.org/wiki/Honorific_speech_in_Japanese). Majority of the words are also written in [romaji](#) since this beginner lesson assumes no knowledge of the Hiragana alphabet
 
 ## Lesson 02 - Verbs
 [Presentation Slides (PDF)](./Lesson%2002%20-%20Verbs.pdf)

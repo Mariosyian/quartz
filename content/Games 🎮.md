@@ -1,5 +1,3 @@
-# Games 🎮
-
 Below are a list of educational games that I've either found online or have created and hosted myself.
 
 ## Kakijun (Stroke Order)
